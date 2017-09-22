@@ -2,7 +2,7 @@
 
 Team membership:  F (Captain) & E (Mate)  
 
-## *Version 0.1*
+## *Version 0.2*
 
 Release Date: 9.21.17
 
@@ -16,7 +16,9 @@ Release Date: 9.21.17
 
 -   controllers
 
-    -   
+    -   Welcome
+    -   Gallery
+    -   About
 
 -   models
 
@@ -24,4 +26,6 @@ Release Date: 9.21.17
 
 -   views
 
-    -   
+    -   welcome
+    -   gallery
+    -   about
