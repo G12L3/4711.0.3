@@ -1,33 +1,38 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Team membership:  F (Captain) & E (Mate)  
 
-## *Version x.x*
+## *Version 0.4*
 
-Release Date: Jul 26, 2027
+Release Date: 9.21.17
 
 ## New Components
 
 -   controllers
 
-    -   serbian (AB)
+    -  Welcome   (E)
+    -  Gallery   (E)
+    -  About     (E)
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   Welcome  (E)(F)(E)
+    -   Gallery  (E)(F)(E)
+    -   About    (E)(F)
 
 -   models
 
-    -   italian (AB)
+    -   Images   (E)
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
+    -   welcome  (E)(F)(E)
+    -   gallery  (E)(F)(E)
+    -   about    (E)(F)
+    -   template (F)
 
+- core
 
+    -   MY_Controller (F)
