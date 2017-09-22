@@ -2,7 +2,7 @@
 
 Team membership:  F (Captain) & E (Mate)  
 
-## *Version 0.2*
+## *Version 0.3*
 
 Release Date: 9.21.17
 
@@ -10,15 +10,17 @@ Release Date: 9.21.17
 
 -   controllers
 
-    - 
+    -  Welcome   (E)
+    -  Gallery   (E)
+    -  About     (E)
     
 ## Updated Components
 
 -   controllers
 
-    -   Welcome
-    -   Gallery
-    -   About
+    -   Welcome  (E)(F)
+    -   Gallery  (E)(F)
+    -   About    (E)(F)
 
 -   models
 
@@ -26,6 +28,11 @@ Release Date: 9.21.17
 
 -   views
 
-    -   welcome
-    -   gallery
-    -   about
+    -   welcome  (E)(F)
+    -   gallery  (E)(F)
+    -   about    (E)(F)
+    -   template (F)
+
+- core
+
+    -   MY_Controller (F)
